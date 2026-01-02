@@ -1,3 +1,4 @@
 {
-    "depends": ["bib-private-prout"]
+    "price": -1,
+    "depends": ["bib-private-prout"],
 }

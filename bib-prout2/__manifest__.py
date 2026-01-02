@@ -1,5 +1,5 @@
 {
-    "price": -1,
+    "price": "inf",
     "currency": "EUR",
     "depends": ["bib-private-prout"],
 }

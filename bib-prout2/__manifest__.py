@@ -1,0 +1,3 @@
+{
+    "depends": ["bib-private-prout"]
+}
